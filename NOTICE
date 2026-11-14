@@ -1,0 +1,17 @@
+anaxia radar
+Contact: egspl@proton.me
+
+The radar implementation, its regression tests, watch configuration, and offline
+fixture were extracted from https://github.com/creelie/Anaxia at the source
+revision recorded in SOURCE-ORIGIN.json.
+
+Copyright (c) 2026 Deep Bhattacharjee
+Licensed under the MIT License; the complete original notice is in LICENSE.
+
+Standalone packaging, entry points, working-directory output defaults, and
+lowercase branding were added for this repository. SOURCE-ORIGIN.json records
+the upstream file hashes and the extraction scope.
+
+The MIT license covers the software. Collected third-party metadata, paper
+abstracts, community-question titles, and blog excerpts retain the terms of
+their sources. Attribution and source links are preserved in the snapshot.

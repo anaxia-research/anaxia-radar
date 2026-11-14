@@ -1,0 +1,22 @@
+{
+  "upstream_repository": "https://github.com/anaxia-research/anaxia",
+  "upstream_commit": "a96cece559e065eae0e13ff142ff5acea29196bc",
+  "software_license": "MIT",
+  "copyright": "Copyright (c) 2026 Deep Bhattacharjee",
+  "upstream_sha256": {
+    "anaxia/radar.py": "cbaa9378f14f0a14cb21310f409db8580d451f3e50bfdce7d0d78cc390178416",
+    "LICENSE": "16689a550cc7cd0c987a21221877aa3ae3c9ba58b907d67e87fdb88e81182005",
+    "tests/test_radar.py": "f590e356f25fca68b2bb4beec99858adb57b2bcc2d38cd076b03ceaf9e7cab04",
+    "examples/radar-fixture.json": "8b3767bd296bc45e43be0a88281c3a490d7b52b018fbe7b27e1b1d7ade6e2efa",
+    "config/research-watch.json": "fc10f768884a81a85605f1da58f22f1113bb13b32c84b020a9ffd71bb063968a",
+    "data/research-radar.json": "cc3081914e64cb0752c095d3f6eb77196d7d1caf6ed82d939b8e69d2d97a4d77",
+    "docs/RESEARCH-RADAR.md": "40b0957bfcdfdaa282f3c8f2521cc006c543ce60b0c14b2ad28d620c823692a9"
+  },
+  "adaptations": [
+    "Standalone anaxia_radar namespace and entry points",
+    "Working-directory outputs with a packaged default watch configuration",
+    "Lowercase anaxia branding and maintainer contact",
+    "Isolated radar workflows and standalone packaging/tests"
+  ],
+  "metadata_notice": "Collected third-party metadata retains its source terms and attribution; the software license does not relicense it."
+}

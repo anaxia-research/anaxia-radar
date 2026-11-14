@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "anaxia-radar"
+version = "0.1.0"
+description = "Source-linked mathematics discovery across GitHub, arXiv, research blogs, and mathematics communities"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Deep Bhattacharjee"}]
+maintainers = [{name = "anaxia", email = "egspl@proton.me"}]
+dependencies = []
+keywords = ["mathematics", "research", "arxiv", "github", "metadata"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Topic :: Scientific/Engineering :: Mathematics",
+]
+
+[project.scripts]
+anaxia-radar = "anaxia_radar.radar:main"
+
+[tool.setuptools.packages.find]
+include = ["anaxia_radar*"]
+
+[tool.setuptools.package-data]
+anaxia_radar = ["default-watch.json"]

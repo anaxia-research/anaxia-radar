@@ -1,0 +1,30 @@
+name: radar checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ['3.10', '3.12', '3.14']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Install the standalone package
+        run: python -m pip install --no-deps .
+      - name: Run upstream and standalone regression checks
+        run: python -m unittest discover -s tests -v
+      - name: Exercise the installed command
+        run: |
+          anaxia-radar show
+          anaxia-radar refresh --offline examples/radar-fixture.json --output .test-output/snapshot.json --digest .test-output/digest.md
+          python -m json.tool .test-output/snapshot.json > /dev/null

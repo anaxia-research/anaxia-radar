@@ -1,0 +1,42 @@
+name: hourly research radar
+
+on:
+  schedule:
+    - cron: '37 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: anaxia-radar-updates
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh public research metadata
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python -m anaxia_radar refresh --config config/research-watch.json --readme README.md
+      - name: Save the updated snapshot and digest
+        shell: bash
+        run: |
+          git add data/research-radar.json docs/RESEARCH-RADAR.md README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh anaxia research radar'
+          git push origin "HEAD:${GITHUB_REF_NAME}"

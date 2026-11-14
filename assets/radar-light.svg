@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">anaxia radar</title>
+  <desc id="description">Source-linked mathematics discovery on a bright background.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#f5fbff"/><stop offset="1" stop-color="#f5f2ff"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#059bb7"/><stop offset="1" stop-color="#7160df"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#dfe9f4" stroke-width=".7"/></pattern>
+    <style>.pulse{animation:signal 3s ease-in-out infinite}@keyframes signal{0%,100%{opacity:.35}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.pulse{animation:none}}</style>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)" opacity=".65"/>
+  <path d="M62 83H110" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+  <text x="62" y="159" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" fill="#182c48">anaxia <tspan fill="#078da6">radar</tspan></text>
+  <text x="65" y="207" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#46607c">source-linked research · clear provenance · hourly discovery</text>
+  <g transform="translate(997 149)" fill="none" stroke="#25a5bb">
+    <circle r="94" opacity=".16"/><circle r="64" opacity=".23"/><circle r="32" opacity=".32"/>
+    <path d="M-106 0H106M0-106V106" opacity=".16"/>
+    <path d="M0 0L69-63" stroke-width="3" opacity=".6"/>
+    <circle cx="69" cy="-63" r="7" fill="#08a1b9" stroke="none" class="pulse"/>
+    <circle cx="-45" cy="34" r="5" fill="#7666de" stroke="none" class="pulse" style="animation-delay:1s"/>
+    <circle cx="28" cy="56" r="4" fill="#08a1b9" stroke="none" class="pulse" style="animation-delay:2s"/>
+    <circle r="5" fill="#078da6" stroke="none"/>
+  </g>
+</svg>
