@@ -12,7 +12,23 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-Run `python -m anaxia_radar show` to inspect the checked-in capture.
+**Public metadata capture · 2026\-11\-15T01:16:54\+00:00**
+
+| Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
+| ---: | ---: | ---: | ---: | ---: | ---: |
+| 485 | 111 | 80 | 16 | 14 | 10 |
+
+Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
+
+Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported incomplete results.
+
+**Latest review candidates**
+
+- [$C^\{1,α\}$ Regularity of $W^\{2,2\}$ $Q$\-Valued Maps with Small Laplacian](https://arxiv.org/abs/2611.17317v1) — reported open candidate; review required.
+- [On the maximum of Poissonian log\-correlated fields](https://arxiv.org/abs/2611.17236v1) — reported open candidate; review required.
+- [Large diameter for $\(Δ\+2\)$\-colouring reconfiguration](https://arxiv.org/abs/2611.17022v1) — reported open candidate; review required.
+
+[Full research radar](docs/RESEARCH-RADAR.md) · [Machine-readable snapshot](data/research-radar.json)
 
 <!-- ANAXIA:RADAR:END -->
 
