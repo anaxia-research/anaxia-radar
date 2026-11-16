@@ -12,21 +12,21 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-**Public metadata capture · 2026\-11\-16T01:21:51\+00:00**
+**Public metadata capture · 2026\-11\-16T08:33:15\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 496 | 111 | 80 | 16 | 14 | 8 |
+| 495 | 115 | 80 | 16 | 12 | 10 |
 
 Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
 
-Coverage: 2 source(s) stale/unavailable; 9 source(s) reached a limit or reported incomplete results.
+Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported incomplete results.
 
 **Latest review candidates**
 
-- [$C^\{1,α\}$ Regularity of $W^\{2,2\}$ $Q$\-Valued Maps with Small Laplacian](https://arxiv.org/abs/2611.17317v1) — reported open candidate; review required.
-- [On the maximum of Poissonian log\-correlated fields](https://arxiv.org/abs/2611.17236v1) — reported open candidate; review required.
-- [Large diameter for $\(Δ\+2\)$\-colouring reconfiguration](https://arxiv.org/abs/2611.17022v1) — reported open candidate; review required.
+- [Automorphism groups of solvable groups of finite abelian ranks](https://arxiv.org/abs/2506.07991v3) — reported open candidate; review required.
+- [Color Refinement Distinguishes Connected Rooted Outerplanar Graphs](https://arxiv.org/abs/2611.18391v1) — reported open candidate; review required.
+- [Quadratic APN Functions of $\\mathbb\{F\}\_2^\{10\}$ with a Self\-Equivalence of Prime Order](https://arxiv.org/abs/2611.18358v1) — reported open candidate; review required.
 
 [Full research radar](docs/RESEARCH-RADAR.md) · [Machine-readable snapshot](data/research-radar.json)
 
