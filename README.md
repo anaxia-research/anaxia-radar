@@ -12,11 +12,11 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-**Public metadata capture · 2026\-11\-17T11:08:56\+00:00**
+**Public metadata capture · 2026\-11\-17T19:59:36\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 498 | 112 | 80 | 16 | 10 | 10 |
+| 500 | 112 | 80 | 16 | 10 | 10 |
 
 Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
 
