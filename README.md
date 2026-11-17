@@ -12,11 +12,11 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-**Public metadata capture · 2026\-11\-16T18:53:26\+00:00**
+**Public metadata capture · 2026\-11\-17T02:36:00\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 496 | 115 | 80 | 16 | 12 | 10 |
+| 498 | 112 | 80 | 16 | 11 | 10 |
 
 Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
 
@@ -24,9 +24,9 @@ Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported
 
 **Latest review candidates**
 
-- [Automorphism groups of solvable groups of finite abelian ranks](https://arxiv.org/abs/2506.07991v3) — reported open candidate; review required.
-- [Color Refinement Distinguishes Connected Rooted Outerplanar Graphs](https://arxiv.org/abs/2611.18391v1) — reported open candidate; review required.
-- [Quadratic APN Functions of $\\mathbb\{F\}\_2^\{10\}$ with a Self\-Equivalence of Prime Order](https://arxiv.org/abs/2611.18358v1) — reported open candidate; review required.
+- [The product of a weak Asplund space and a one\-dimensional space is a weak Asplund space](https://arxiv.org/abs/2510.26827v5) — reported open candidate; review required.
+- [On the Flucher\-\-Rumpf isoperimetric question for the interior Bernoulli free boundary problem: a conformal reformulation, quantitative bounds and the second variation at the disc](https://arxiv.org/abs/2611.19091v1) — reported open candidate; review required.
+- [A Fast and Accurate Time\-Space Decomposition for Unit Commitment With Storage](https://arxiv.org/abs/2611.18946v1) — reported open candidate; review required.
 
 [Full research radar](docs/RESEARCH-RADAR.md) · [Machine-readable snapshot](data/research-radar.json)
 
