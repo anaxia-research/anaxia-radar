@@ -12,11 +12,11 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-**Public metadata capture · 2026\-11\-17T02:36:00\+00:00**
+**Public metadata capture · 2026\-11\-17T11:08:56\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 498 | 112 | 80 | 16 | 11 | 10 |
+| 498 | 112 | 80 | 16 | 10 | 10 |
 
 Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
 
@@ -24,9 +24,9 @@ Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported
 
 **Latest review candidates**
 
-- [The product of a weak Asplund space and a one\-dimensional space is a weak Asplund space](https://arxiv.org/abs/2510.26827v5) — reported open candidate; review required.
-- [On the Flucher\-\-Rumpf isoperimetric question for the interior Bernoulli free boundary problem: a conformal reformulation, quantitative bounds and the second variation at the disc](https://arxiv.org/abs/2611.19091v1) — reported open candidate; review required.
-- [A Fast and Accurate Time\-Space Decomposition for Unit Commitment With Storage](https://arxiv.org/abs/2611.18946v1) — reported open candidate; review required.
+- [On elliptic curves with prescribed analytic rank at least $2$](https://arxiv.org/abs/2611.21447v1) — reported open candidate; review required.
+- [Polynomial bounds for quasiplanar graphs](https://arxiv.org/abs/2611.21416v1) — reported open candidate; review required.
+- [An iterated\-logarithm price of anytime validity for log\-optimal e\-processes](https://arxiv.org/abs/2611.11874v2) — reported open candidate; review required.
 
 [Full research radar](docs/RESEARCH-RADAR.md) · [Machine-readable snapshot](data/research-radar.json)
 
