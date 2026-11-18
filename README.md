@@ -12,11 +12,11 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-**Public metadata capture · 2026\-11\-18T02:34:51\+00:00**
+**Public metadata capture · 2026\-11\-18T10:43:10\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 500 | 109 | 80 | 16 | 11 | 10 |
+| 501 | 111 | 80 | 16 | 13 | 10 |
 
 Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
 
@@ -24,9 +24,9 @@ Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported
 
 **Latest review candidates**
 
-- [Toroidal Obstructions with No K\_5 Minor](https://arxiv.org/abs/2611.22089v1) — reported open candidate; review required.
-- [Large Language Models as Nonlinear Dynamical Systems: The Three Clocks of Depth, Training, and Generation](https://arxiv.org/abs/2611.21983v1) — reported open candidate; review required.
-- [Banach\-Mazur distance and related methods of comparing convex bodies](https://arxiv.org/abs/2611.21947v1) — reported open candidate; review required.
+- [Complexity Framework For Forbidden Subgraphs V: Beyond Simple Graphs](https://arxiv.org/abs/2502.07769v3) — reported open candidate; review required.
+- [Link Spectra of Lorenz\-like Templates and the Horseshoe](https://arxiv.org/abs/2611.19467v2) — reported open candidate; review required.
+- [Maximality of the Došen\-Petrić Boolean Category](https://arxiv.org/abs/2611.19496v2) — reported open candidate; review required.
 
 [Full research radar](docs/RESEARCH-RADAR.md) · [Machine-readable snapshot](data/research-radar.json)
 
