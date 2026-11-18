@@ -12,11 +12,11 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-**Public metadata capture · 2026\-11\-17T19:59:36\+00:00**
+**Public metadata capture · 2026\-11\-18T02:34:51\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 500 | 112 | 80 | 16 | 10 | 10 |
+| 500 | 109 | 80 | 16 | 11 | 10 |
 
 Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
 
@@ -24,9 +24,9 @@ Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported
 
 **Latest review candidates**
 
-- [On elliptic curves with prescribed analytic rank at least $2$](https://arxiv.org/abs/2611.21447v1) — reported open candidate; review required.
-- [Polynomial bounds for quasiplanar graphs](https://arxiv.org/abs/2611.21416v1) — reported open candidate; review required.
-- [An iterated\-logarithm price of anytime validity for log\-optimal e\-processes](https://arxiv.org/abs/2611.11874v2) — reported open candidate; review required.
+- [Toroidal Obstructions with No K\_5 Minor](https://arxiv.org/abs/2611.22089v1) — reported open candidate; review required.
+- [Large Language Models as Nonlinear Dynamical Systems: The Three Clocks of Depth, Training, and Generation](https://arxiv.org/abs/2611.21983v1) — reported open candidate; review required.
+- [Banach\-Mazur distance and related methods of comparing convex bodies](https://arxiv.org/abs/2611.21947v1) — reported open candidate; review required.
 
 [Full research radar](docs/RESEARCH-RADAR.md) · [Machine-readable snapshot](data/research-radar.json)
 
