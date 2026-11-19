@@ -12,11 +12,11 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-**Public metadata capture · 2026\-11\-19T01:28:26\+00:00**
+**Public metadata capture · 2026\-11\-19T09:28:32\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 499 | 111 | 80 | 16 | 13 | 10 |
+| 498 | 108 | 80 | 16 | 8 | 10 |
 
 Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
 
@@ -24,9 +24,9 @@ Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported
 
 **Latest review candidates**
 
-- [Complexity Framework For Forbidden Subgraphs V: Beyond Simple Graphs](https://arxiv.org/abs/2502.07769v3) — reported open candidate; review required.
-- [Link Spectra of Lorenz\-like Templates and the Horseshoe](https://arxiv.org/abs/2611.19467v2) — reported open candidate; review required.
-- [Maximality of the Došen\-Petrić Boolean Category](https://arxiv.org/abs/2611.19496v2) — reported open candidate; review required.
+- [Random Sequential Adsorption versus the Uniform Ensemble of Jammed Configurations: Stochastic Dominance on Graphs](https://arxiv.org/abs/2611.14718v2) — reported open candidate; review required.
+- [Balanced Simplicial Complexes for the $γ$\-Vectors of Zig\-Zag Eulerian Polynomials](https://arxiv.org/abs/2611.24720v1) — reported open candidate; review required.
+- [Positivity and uniform log\-concavity for rank\-two Chern coefficients](https://arxiv.org/abs/2611.24563v1) — reported open candidate; review required.
 
 [Full research radar](docs/RESEARCH-RADAR.md) · [Machine-readable snapshot](data/research-radar.json)
 
