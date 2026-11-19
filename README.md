@@ -12,7 +12,7 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-**Public metadata capture · 2026\-11\-19T09:28:32\+00:00**
+**Public metadata capture · 2026\-11\-19T18:38:54\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
