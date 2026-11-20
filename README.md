@@ -12,11 +12,11 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-**Public metadata capture · 2026\-11\-20T01:26:08\+00:00**
+**Public metadata capture · 2026\-11\-20T09:08:13\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 496 | 108 | 80 | 16 | 8 | 10 |
+| 496 | 111 | 80 | 16 | 13 | 10 |
 
 Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
 
@@ -24,9 +24,9 @@ Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported
 
 **Latest review candidates**
 
-- [Random Sequential Adsorption versus the Uniform Ensemble of Jammed Configurations: Stochastic Dominance on Graphs](https://arxiv.org/abs/2611.14718v2) — reported open candidate; review required.
-- [Balanced Simplicial Complexes for the $γ$\-Vectors of Zig\-Zag Eulerian Polynomials](https://arxiv.org/abs/2611.24720v1) — reported open candidate; review required.
-- [Positivity and uniform log\-concavity for rank\-two Chern coefficients](https://arxiv.org/abs/2611.24563v1) — reported open candidate; review required.
+- [Computer\-Assisted Results for $n$\-Sided Non\-Transitive Dice Taking Face Values in $\[n\]$](https://arxiv.org/abs/2610.40321v2) — reported open candidate; review required.
+- [Between proper and strong edge\-colorings of graphs with maximum degree at most four](https://arxiv.org/abs/2611.22254v2) — reported open candidate; review required.
+- [Agnostic Smoothed Online Regression with Adversarial Responses](https://arxiv.org/abs/2609.32478v2) — reported open candidate; review required.
 
 [Full research radar](docs/RESEARCH-RADAR.md) · [Machine-readable snapshot](data/research-radar.json)
 
