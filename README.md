@@ -12,11 +12,11 @@ It runs on Python 3.10 or later with **no runtime dependencies**. The checked-in
 
 <!-- ANAXIA:RADAR:START -->
 
-**Public metadata capture · 2026\-11\-24T06:21:33\+00:00**
+**Public metadata capture · 2026\-11\-24T18:15:51\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 521 | 108 | 80 | 16 | 11 | 10 |
+| 523 | 112 | 80 | 16 | 9 | 10 |
 
 Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
 
@@ -24,9 +24,9 @@ Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported
 
 **Latest review candidates**
 
+- [A Quantum Model from the Riemann\-Siegel Formula](https://arxiv.org/abs/2611.31116v1) — reported open candidate; review required.
+- [$k$\-ary Legendre pairs](https://arxiv.org/abs/2611.31067v1) — reported open candidate; review required.
 - [A note on 4\-forms in 8\-dimensions](https://arxiv.org/abs/2608.20200v3) — reported open candidate; review required.
-- [The $T1$ theorem under Dini regularity](https://arxiv.org/abs/2611.30870v1) — reported open candidate; review required.
-- [A martingale proof of simultaneous convex and smooth renorming](https://arxiv.org/abs/2611.30792v1) — reported open candidate; review required.
 
 [Full research radar](docs/RESEARCH-RADAR.md) · [Machine-readable snapshot](data/research-radar.json)
 
