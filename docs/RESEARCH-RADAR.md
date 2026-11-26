@@ -1,10 +1,10 @@
 # anaxia research radar
 
-**Public metadata capture · 2026\-11\-25T22:43:25\+00:00**
+**Public metadata capture · 2026\-11\-26T05:25:24\+00:00**
 
 | Repositories | Papers | Community questions | Blog posts | Review candidates | Sources refreshed |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 521 | 109 | 80 | 16 | 13 | 10 |
+| 519 | 110 | 80 | 16 | 13 | 10 |
 
 Configured, bounded sources; candidate language and community answer flags do not establish that a conjecture is open or solved.
 
@@ -12,9 +12,9 @@ Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported
 
 **Latest review candidates**
 
-- [Polynomial bounds for quasiplanar graphs](https://arxiv.org/abs/2611.21416v2) — reported open candidate; review required.
-- [Hölder continuity of Green functions for Markov sets](https://arxiv.org/abs/2611.33131v1) — reported open candidate; review required.
-- [Winning and losing NoGo is PSPACE\-complete](https://arxiv.org/abs/2611.33127v1) — reported open candidate; review required.
+- [Cycles and Symmetries of Non\-Transitive Dice with Minimal and Uniform Winning Advantages](https://arxiv.org/abs/2610.40321v3) — reported open candidate; review required.
+- [Pietsch's favourite problem on singular traces](https://arxiv.org/abs/2611.34559v1) — reported open candidate; review required.
+- [On infinite torsion of abelian varieties over large algebraic fields of positive characteristic](https://arxiv.org/abs/2611.34528v1) — reported open candidate; review required.
 
 [Full research radar](RESEARCH-RADAR.md) · [Machine-readable snapshot](../data/research-radar.json)
 
@@ -22,143 +22,143 @@ Coverage: 0 source(s) stale/unavailable; 9 source(s) reached a limit or reported
 
 | Source | State | Last successful capture | Records | Limited |
 | --- | --- | --- | ---: | --- |
-| github: anaxia\-research | ok | 2026\-11\-25T22:43:25\+00:00 | 243 | False |
-| github: topic:theorem\-proving archived:false | ok | 2026\-11\-25T22:43:25\+00:00 | 100 | True |
-| github: topic:formal\-verification topic:mathematics archived:false | ok | 2026\-11\-25T22:43:25\+00:00 | 100 | True |
-| github: topic:mathematics topic:artificial\-intelligence archived:false | ok | 2026\-11\-25T22:43:25\+00:00 | 100 | True |
-| arxiv: cat:math.\* | ok | 2026\-11\-25T22:43:25\+00:00 | 60 | True |
-| arxiv: cat:math.\* AND \(all:conjecture OR all:"open problem"\) | ok | 2026\-11\-25T22:43:25\+00:00 | 60 | True |
-| stackexchange: mathoverflow | ok | 2026\-11\-25T22:43:25\+00:00 | 40 | True |
-| stackexchange: math | ok | 2026\-11\-25T22:43:25\+00:00 | 40 | True |
-| blogs: https://terrytao.wordpress.com/feed/ | ok | 2026\-11\-25T22:43:25\+00:00 | 8 | True |
-| blogs: https://gowers.wordpress.com/feed/ | ok | 2026\-11\-25T22:43:25\+00:00 | 8 | True |
+| github: anaxia\-research | ok | 2026\-11\-26T05:25:24\+00:00 | 243 | False |
+| github: topic:theorem\-proving archived:false | ok | 2026\-11\-26T05:25:24\+00:00 | 100 | True |
+| github: topic:formal\-verification topic:mathematics archived:false | ok | 2026\-11\-26T05:25:24\+00:00 | 100 | True |
+| github: topic:mathematics topic:artificial\-intelligence archived:false | ok | 2026\-11\-26T05:25:24\+00:00 | 100 | True |
+| arxiv: cat:math.\* | ok | 2026\-11\-26T05:25:24\+00:00 | 60 | True |
+| arxiv: cat:math.\* AND \(all:conjecture OR all:"open problem"\) | ok | 2026\-11\-26T05:25:24\+00:00 | 60 | True |
+| stackexchange: mathoverflow | ok | 2026\-11\-26T05:25:24\+00:00 | 40 | True |
+| stackexchange: math | ok | 2026\-11\-26T05:25:24\+00:00 | 40 | True |
+| blogs: https://terrytao.wordpress.com/feed/ | ok | 2026\-11\-26T05:25:24\+00:00 | 8 | True |
+| blogs: https://gowers.wordpress.com/feed/ | ok | 2026\-11\-26T05:25:24\+00:00 | 8 | True |
 
 ## Conjecture review queue
 
 An abstract may discuss a problem already resolved elsewhere or use open-problem language historically. Each entry needs literature review, exact formalization and an independent proof check. The radar never submits papers or executes source code.
 
-### [Polynomial bounds for quasiplanar graphs](https://arxiv.org/abs/2611.21416v2)
+### [Cycles and Symmetries of Non\-Transitive Dice with Minimal and Uniform Winning Advantages](https://arxiv.org/abs/2610.40321v3)
 
 **Status:** `reported_open_candidate` · **Action:** human review
 
-> A graph $G$ is $k$\-quasiplanar if it can be drawn in the plane without $k$ pairwise crossing edges. It was a longstanding conjecture that $n$\-vertex $k$\-quasiplanar graphs have $O\_k\(n\)$ edges. Recently, using AI tools, we discovered that a theorem in topology proven by Beeker and Lazarovich essentially resolves this conjecture, with the implicit constant depending superexpon
+> ith uniform and minimal winning advantage, and identify the two unique such cycles. Finally, we present computational evidence supporting a conjecture that \\\(n=6\\\) is also the largest such \\\(n\\\).
 
-### [Hölder continuity of Green functions for Markov sets](https://arxiv.org/abs/2611.33131v1)
-
-**Status:** `reported_open_candidate` · **Action:** human review
-
-> 's inequality on $K$. The implication from Markov's inequality to Hölder continuity of the associated Green function settles a longstanding open problem at the intersection of approximation theory and pluripotential theory. A Markov bound $An^m$ in degree $n$ gives every Hölder exponent below $1/m$. In one complex variable it gives the exponent $1/m$ itself. The proof compares the extremal
-
-### [Winning and losing NoGo is PSPACE\-complete](https://arxiv.org/abs/2611.33127v1)
+### [Pietsch's favourite problem on singular traces](https://arxiv.org/abs/2611.34559v1)
 
 **Status:** `reported_open_candidate` · **Action:** human review
 
-> We resolve an open problem of Burke and Hearn and show that the combinatorial game NoGo is PSPACE\-complete on grids. This is the usual geometry the game is played on, including at the tournament at a 2011 Banff workshop. In addition to this result, we show that it i
+> In 2023, A. Pietsch formulated twenty\-seven open problems concerning traces on operator ideals. We give an affirmative answer to Problem 16, which Pietsch singled out as his personal favourite, by constructing a nonzero bounded singular spectral trace on the weak Weyl ideal over the class of all
 
-### [Brauer classes of representations of division algebras and their Langlands parameters](https://arxiv.org/abs/2611.33116v1)
-
-**Status:** `reported_open_candidate` · **Action:** human review
-
-> n algebra over $K$ of invariant $1/n$, and $B\_\{p,\\infty\}$ is the quaternion algebra over $\\mathbb\{Q\}$ ramified exactly at $p$ and $\\infty$. We conjecture this identity without the depth restriction. For arbitrarily large $n=p\-1$, we construct simple supercuspidal representations satisfying the same sum formula. Their transfers have finite\-order central character and Schur index $n$, whereas
-
-### [Max\-degree filtration, Koszul complexes, and Multicolor Permutation Wordle](https://arxiv.org/abs/2611.33113v1)
+### [On infinite torsion of abelian varieties over large algebraic fields of positive characteristic](https://arxiv.org/abs/2611.34528v1)
 
 **Status:** `reported_open_candidate` · **Action:** human review
 
-> . The motivating examples come from the game Permutation Wordle of Kutin and Smithline, as analyzed by Kutin, Smithline, and Vatter, and an open question, Conjecture 4.5 in Kutin and Smithline's work on Multicolor Permutation Wordle. For each ideal in this family, with our chosen generators, the Koszul differentials are strict for the max\-degree filtration and, more generally, at every mult
+> torsion subgroup of $A\(F^\{sep\}\(σ\)\)$ is infinite\), where $F^\{sep\}\(σ\)$ denotes the subfield of $F^\{sep\}$ fixed by $σ$. While this conjecture remains open when $\\mathrm\{Char\}\(F\)&gt;0$, we establish a new case under the assumptions of $\\mathrm\{End\}\(A\)=\\mathbb\{Z\}$ and the connectedness of the algebraic monodromy groups attached to $A/F$.
 
-### [Forgetting matters: when subspace optimization accelerates without the strong convexity parameter](https://arxiv.org/abs/2611.00727v3)
-
-**Status:** `reported_open_candidate` · **Action:** human review
-
-> em constants, is accelerated on smooth convex functions and often accelerates in practice. One of our main contributions is to disprove the conjecture that it is uniformly accelerated on strongly convex functions. We develop a taxonomy of memory mechanisms by window length and forgetting rate. We consider exact subspace methods whose memory is a window of recent gradients and steps plus finit
-
-### [Log\-concavity and Approximate Counting for Totally Unimodular Polytopes](https://arxiv.org/abs/2609.39917v2)
+### [Selecting $2 \\times 2$ submatrices with optimally bounded inverses](https://arxiv.org/abs/2611.34506v1)
 
 **Status:** `reported_open_candidate` · **Action:** human review
 
-> e results is the resolution of Barvinok's log\-concavity conjecture for contingency tables on lines, which was proven using ChatGPT 6 Astra. We conjecture a generalization of Barvinok's conjecture, which we believe will lead to stronger and more general bounds.
+> v\-\-Zamarashkin \(GTZ\) conjecture asserts that there exists a $k \\times k$ submatrix $U\_I$ with $\\\|U\_I^\{\-1\}\\\|\_2 \\le \\sqrt\{n\}$. The conjecture remains open for $3 \\le k \\le n \- 3$. The existence of such a submatrix in the case $k = 2$ was proved for $n=4$ by Nesterenko \(2023\) and recently for general $n$ by Sengupta and Pautov \(2026\). In this paper, we give a short, elementary, constructive p
 
-### [Sparse Additive Spanners and the Cost Spectra of Group Actions](https://arxiv.org/abs/2611.32607v1)
-
-**Status:** `reported_open_candidate` · **Action:** human review
-
-> Cayley graph the choice of action realizes every additive cost in $\[1,2\]$. The minimum of the action spectrum recovers the geometric cost. Open problems are presented in the end.
-
-### [Global Weak Solutions and Non\-Formation of Vacuum States for Compressible Navier\-\-Stokes\-\-Korteweg Equations](https://arxiv.org/abs/2611.32527v1)
+### [Equal probabilities maximize the expected deficit in the siblings of the coupon collector](https://arxiv.org/abs/2606.21591v2)
 
 **Status:** `reported_open_candidate` · **Action:** human review
 
-> A long\-standing open problem in the mathematical theory of M\-D fluid dynamics in viscous compressible flow is whether vacuum can form in finite time from initial data with density bounded away from zero. The underlying assumption in the derivation of systems of Navier
+> icate down a chain of siblings; the $j$th collector is then left with $U\_j^N$ empty places, $j\\ge 2$. It has been conjectured \[stated as an open problem in the work that introduced the model\] that, for every fixed number of coupon types $N$ and every $j\\ge 2$, the expected deficit $\\E\[U\_j^N\]$ is maximized by the equiprobable coupon distribution. We prove this in a sharp, finite\-$N$ form: $
 
-### [A proof of the weighted Böttcher\-Wenzel inequality conjectured by Mayumi, Kimura, Ohno and Chruściński](https://arxiv.org/abs/2611.28196v2)
-
-**Status:** `reported_open_candidate` · **Action:** human review
-
-> through $\|\\det B\|^2$, so the real case is literally a special case. As a second theorem we prove, for every weight, a strengthening of the conjecture that is equivalent to the inequality for one matrix and all pairs of unit vectors; its best constant is again a convex function of $ω^\{\-1/2\}$, and the same argument applies. We also read the inequality as a sharp bound for inner derivations on
-
-### [Certified minimax normal\-scale mixtures for the logistic\-normal integral](https://arxiv.org/abs/2611.32270v1)
+### [On some problems regarding a group\-theoretical generalization of the Gauss formula](https://arxiv.org/abs/2611.34371v1)
 
 **Status:** `reported_open_candidate` · **Action:** human review
 
-> istribution in statistics and the Gauss\-Fermi integral in semiconductor physics. Monahan and Stefanski tabulate constants for $K \\le 8$ and conjecture that the optimal error equioscillates at $2K$ points, while above $K = 8$ the Remez exchange and local solvers stall at nonequioscillating stationary points. We prove that the tangent space of the mixture family is a Chebyshev system, which for
+> e\{FT23\}, we introduced the group\-theoretical function $f\(G\) = \\frac\{1\}\{\|G\|\}\\sum\_\{H \\le G\} \|\\Aut\(H\)\|$ for a finite group $G$ and posed three open problems concerning its values on noncyclic groups. In this note, we provide complete solutions to all three problems.
 
-### [Effective Chebotarev\-Sato\-Tate distribution for Abelian varieties with applications](https://arxiv.org/abs/2610.36464v2)
-
-**Status:** `reported_open_candidate` · **Action:** human review
-
-> i\(x\):=\|\{p&lt;= x: p does not divide N, a\(p\) is in Q\}\|, where a\(p\) is the pth Fourier coefficient of f. In addition, we formulate a discrepancy conjecture that allows us to prove Murty's asymptotic prediction \(Conjecture 3.4, 1999\) for Pi\(x\).
-
-### [Spectrality of additive measures with Bernoulli convolutions](https://arxiv.org/abs/2611.32178v1)
+### [Numerical algorithm for finding balanced metrics on vector bundles II: the non\-simple case](https://arxiv.org/abs/2611.34339v1)
 
 **Status:** `reported_open_candidate` · **Action:** human review
 
-> omy: $μ^\{1/R\}$ is spectral if and only if $R$ is even. For unequal contraction ratios, we prove that $μ\_\{1/2,1/4\}$ is not spectral. Several open problems and future directions are discussed.
+> tem always converges to the balanced metric provided that the automorphism group is discrete \(\\cite\{S\}\). In \\cite\{DKLR\}, Douglas, et.\\ al., conjecture that the same holds in the case of vector bundles. In \\cite\{Se\}, we proved their conjecture under the assumption that the bundle is simple. In this note, we remove the simplicity assumption. The main tool is Thompson's metric on the space of He
+
+### [A Counterexample to Single\-Control Null Controllability of Stochastic Heat Equations](https://arxiv.org/abs/2611.34337v1)
+
+**Status:** `reported_open_candidate` · **Action:** human review
+
+> We disprove the conjecture that a single localized drift control suffices for null controllability of stochastic parabolic equations with bounded adapted coefficients. On a bounded interval with homogeneous Dirichlet boundary conditions, we construct a deterministic, non
+
+### [The enigma of locally Toeplitz matrices. I. Discrete Schrödinger operators with complex potential](https://arxiv.org/abs/2611.09301v2)
+
+**Status:** `reported_open_candidate` · **Action:** human review
+
+> measures. Their average can fill a region of the complex plane even when the eigenvalues of the original matrices appear to follow curves. We conjecture that, when the above average has a sufficiently regular planar density, the limiting eigenvalue measure is its mother body. We prove it for a class of finite Dirichlet discrete Schrödinger operators with complex potential $V$ and a common
+
+### [The hitting time index: bounds, a sharp threshold, the proof of a conjecture and the disproof of another conjecture](https://arxiv.org/abs/2611.34295v1)
+
+**Status:** `reported_open_candidate` · **Action:** human review
+
+> vertex graph, showing along the way that the largest order of the index is $n^5$ and the smallest is $n^3$. More specifically, we prove the conjecture that the smallest value of the index is $\\frac\{n\(n\-1\)^2\}\{2\}$, which is attained by the complete graph. We also find a sharp threshold for the minimal degree $δ$ so that the $HT$ index goes from an $n^4$ order to an $n^3$ order if the threshold
+
+### [Generic non\-convergence of low\-temperature Ising Glauber dynamics on $\\mathbb Z^2$](https://arxiv.org/abs/2611.34193v1)
+
+**Status:** `reported_open_candidate` · **Action:** human review
+
+> logy. Consequently, the initial laws for which the dynamics converges in distribution form a meagre set, which gives a partial answer to an open problem posed by Liggett. In particular, a large initial magnetisation does not force convergence to the plus phase, even for spatially ergodic initial laws. The proof combines equilibrium and mixing estimates of Gheissari and Sly with a periodic
+
+### [A general upper bound on broadcast function $\{B\(n\)\}$ using Kn\{ö\}del graph](https://arxiv.org/abs/2611.34167v1)
+
+**Status:** `reported_open_candidate` · **Action:** human review
+
+> andard and reverse dimensional broadcast scheme with any cyclic shifts from an arbitrary originator. Furthermore, we completely resolve the open problem about the existence of minimum average time broadcast graphs.
+
+### [The modulus of smoothness and \\\(\\ell\_p\\\)\-generation](https://arxiv.org/abs/2611.34164v1)
+
+**Status:** `reported_open_candidate` · **Action:** human review
+
+> We extend this equivalence to arbitrary density, with \\\(\|Γ\|=\\dens X\\\), answering \\mbox\{Problem~291\} of Guirao, Montesinos and Zizler \[\\emph\{Open Problems in the Geometry and Analysis of Banach Spaces\}, Springer, Cham \(2016\), p.~127\]. The proof combines an upper \\\(\\ell\_p\\\)\-estimate on successive projection differences with transfinite induction on density. We characterize generation by super
 
 ## Recently updated repositories
 
 | Repository | Last update reported by GitHub | License reported by GitHub |
 | --- | --- | --- |
+| [tamnd/math2\-agent](https://github.com/tamnd/math2-agent) | 2026\-11\-26T05:14:43Z | Apache\-2.0 |
+| [tamnd/math2](https://github.com/tamnd/math2) | 2026\-11\-26T05:14:38Z | NOASSERTION |
+| [tamnd/riemann\-lean](https://github.com/tamnd/riemann-lean) | 2026\-11\-26T05:14:11Z | unspecified |
+| [tamnd/singularity\-lean](https://github.com/tamnd/singularity-lean) | 2026\-11\-26T05:13:49Z | Apache\-2.0 |
+| [tamnd/langlands\-lean](https://github.com/tamnd/langlands-lean) | 2026\-11\-26T05:13:45Z | Apache\-2.0 |
+| [1337isnot1337/solved\-conjectures](https://github.com/1337isnot1337/solved-conjectures) | 2026\-11\-26T05:12:05Z | MIT |
+| [tiwe0/GeoChat](https://github.com/tiwe0/GeoChat) | 2026\-11\-26T04:58:39Z | Apache\-2.0 |
+| [aravpanwar/dsmai](https://github.com/aravpanwar/dsmai) | 2026\-11\-26T04:52:14Z | MIT |
+| [HenryNdubuaku/maths\-cs\-ai\-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 2026\-11\-26T03:57:25Z | Apache\-2.0 |
+| [0thernes/promislow\-fracton\-amoeba](https://github.com/0thernes/promislow-fracton-amoeba) | 2026\-11\-26T03:42:51Z | NOASSERTION |
+| [0thernes/cellular\-engine\-omega](https://github.com/0thernes/cellular-engine-omega) | 2026\-11\-26T03:22:52Z | NOASSERTION |
+| [HOL\-Theorem\-Prover/HOL](https://github.com/HOL-Theorem-Prover/HOL) | 2026\-11\-26T03:21:34Z | NOASSERTION |
+| [mohamedsamirx/certified\-consensus](https://github.com/mohamedsamirx/certified-consensus) | 2026\-11\-26T03:20:32Z | Apache\-2.0 |
+| [nasqret/readback](https://github.com/nasqret/readback) | 2026\-11\-26T03:10:05Z | 0BSD |
+| [0thernes/unsolved\-problems\-mega\-atlas](https://github.com/0thernes/unsolved-problems-mega-atlas) | 2026\-11\-26T02:35:56Z | NOASSERTION |
+| [quantum\-atlas\-ai/qatlib](https://github.com/quantum-atlas-ai/qatlib) | 2026\-11\-26T02:33:01Z | Apache\-2.0 |
+| [0thernes/0thernes\-research\-archive](https://github.com/0thernes/0thernes-research-archive) | 2026\-11\-26T02:30:55Z | NOASSERTION |
+| [0thernes/unsolved\-mathematics](https://github.com/0thernes/unsolved-mathematics) | 2026\-11\-26T02:30:14Z | NOASSERTION |
+| [rocq\-prover/rocq](https://github.com/rocq-prover/rocq) | 2026\-11\-26T01:59:25Z | LGPL\-2.1 |
+| [eldernos/MathematicsResearch](https://github.com/eldernos/MathematicsResearch) | 2026\-11\-26T01:45:20Z | MIT |
+| [craftwill/alpoge\-riemann\-lean\-viewer](https://github.com/craftwill/alpoge-riemann-lean-viewer) | 2026\-11\-26T01:22:11Z | unspecified |
+| [LizzoLizard/quiet\-collisions\-math](https://github.com/LizzoLizard/quiet-collisions-math) | 2026\-11\-26T01:17:06Z | MIT |
+| [LizzoLizard/balanced\-boolean\-nonlinearity](https://github.com/LizzoLizard/balanced-boolean-nonlinearity) | 2026\-11\-26T00:59:57Z | MIT |
+| [JackyJiang08/AI4Algebra](https://github.com/JackyJiang08/AI4Algebra) | 2026\-11\-26T00:25:24Z | MIT |
+| [anaxia\-research/4Y\-M](https://github.com/anaxia-research/4Y-M) | 2026\-11\-25T23:14:36Z | MIT |
+| [FractalDevTeam/Principia\-Fractalis](https://github.com/FractalDevTeam/Principia-Fractalis) | 2026\-11\-25T22:48:34Z | NOASSERTION |
 | [leanprover\-community/physlib](https://github.com/leanprover-community/physlib) | 2026\-11\-25T22:34:17Z | Apache\-2.0 |
-| [1337isnot1337/solved\-conjectures](https://github.com/1337isnot1337/solved-conjectures) | 2026\-11\-25T22:27:04Z | MIT |
 | [richardsondx/mathematical\-verification](https://github.com/richardsondx/mathematical-verification) | 2026\-11\-25T22:26:10Z | MIT |
 | [troytsv/project\-lemma](https://github.com/troytsv/project-lemma) | 2026\-11\-25T22:09:08Z | MIT |
 | [h5i\-dev/h5i](https://github.com/h5i-dev/h5i) | 2026\-11\-25T22:00:15Z | Apache\-2.0 |
-| [HenryNdubuaku/maths\-cs\-ai\-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 2026\-11\-25T21:36:33Z | Apache\-2.0 |
 | [formal\-applied\-math/formal\-mathfin](https://github.com/formal-applied-math/formal-mathfin) | 2026\-11\-25T21:21:28Z | Apache\-2.0 |
 | [allsmog/Formal\-Verify\-Anything](https://github.com/allsmog/Formal-Verify-Anything) | 2026\-11\-25T20:53:24Z | MIT |
 | [conao3/lean\-leanfran](https://github.com/conao3/lean-leanfran) | 2026\-11\-25T20:42:52Z | Apache\-2.0 |
-| [craftwill/alpoge\-riemann\-lean\-viewer](https://github.com/craftwill/alpoge-riemann-lean-viewer) | 2026\-11\-25T20:08:23Z | unspecified |
 | [LightLikeProject/lightlike](https://github.com/LightLikeProject/lightlike) | 2026\-11\-25T19:10:25Z | Apache\-2.0 |
 | [esnow100/torah\-lean](https://github.com/esnow100/torah-lean) | 2026\-11\-25T18:47:42Z | Apache\-2.0 |
 | [yonggangjiang/tcs\-prover](https://github.com/yonggangjiang/tcs-prover) | 2026\-11\-25T18:40:33Z | unspecified |
 | [rkka02/pioneer](https://github.com/rkka02/pioneer) | 2026\-11\-25T18:24:26Z | unspecified |
-| [aravpanwar/dsmai](https://github.com/aravpanwar/dsmai) | 2026\-11\-25T18:02:13Z | MIT |
-| [tamnd/riemann\-lean](https://github.com/tamnd/riemann-lean) | 2026\-11\-25T17:48:44Z | unspecified |
 | [nasa\-jpl/L4YAML](https://github.com/nasa-jpl/L4YAML) | 2026\-11\-25T17:44:55Z | NOASSERTION |
 | [BastianMIllan/Valiants\-Conjecture](https://github.com/BastianMIllan/Valiants-Conjecture) | 2026\-11\-25T17:08:01Z | MIT |
 | [Cameron\-Lyons/formal\-math\-lab](https://github.com/Cameron-Lyons/formal-math-lab) | 2026\-11\-25T17:07:26Z | MIT |
-| [prooflog553/isolation\-game\-on\-trees\-exhibit](https://github.com/prooflog553/isolation-game-on-trees-exhibit) | 2026\-11\-25T15:56:31Z | NOASSERTION |
-| [tokbceliwemers/erdos\-787\-progress](https://github.com/tokbceliwemers/erdos-787-progress) | 2026\-11\-25T15:21:42Z | unspecified |
-| [HuggingMath/theorem\-os](https://github.com/HuggingMath/theorem-os) | 2026\-11\-25T15:05:29Z | AGPL\-3.0 |
-| [emzeay/degni\-drisko\-odd\-primes](https://github.com/emzeay/degni-drisko-odd-primes) | 2026\-11\-25T14:51:53Z | Apache\-2.0 |
-| [jimmyMSTon/hierarchical\-mathematics](https://github.com/jimmyMSTon/hierarchical-mathematics) | 2026\-11\-25T14:47:18Z | CC\-BY\-4.0 |
-| [nasqret/readback](https://github.com/nasqret/readback) | 2026\-11\-25T13:44:47Z | 0BSD |
-| [wcook04/proof\-reader](https://github.com/wcook04/proof-reader) | 2026\-11\-25T13:09:14Z | Apache\-2.0 |
-| [NousVolition/sparkle\-sand\-playground](https://github.com/NousVolition/sparkle-sand-playground) | 2026\-11\-25T12:33:31Z | NOASSERTION |
-| [NousVolition/hug\-sims\-lean\-proofs](https://github.com/NousVolition/hug-sims-lean-proofs) | 2026\-11\-25T12:33:29Z | NOASSERTION |
-| [sawaadee/lemon](https://github.com/sawaadee/lemon) | 2026\-11\-25T10:57:37Z | MIT |
-| [anaxia\-research/anaxia](https://github.com/anaxia-research/anaxia) | 2026\-11\-25T10:04:57Z | MIT |
-| [anaxia\-research/4Y\-M](https://github.com/anaxia-research/4Y-M) | 2026\-11\-25T09:58:44Z | MIT |
-| [Kdevos12/seshat](https://github.com/Kdevos12/seshat) | 2026\-11\-25T09:57:33Z | Apache\-2.0 |
-| [anaxia\-research/eBLLM](https://github.com/anaxia-research/eBLLM) | 2026\-11\-25T09:56:27Z | MIT |
-| [grwtsk/math](https://github.com/grwtsk/math) | 2026\-11\-25T09:55:25Z | MIT |
-| [machinefabric/lungo\-rs](https://github.com/machinefabric/lungo-rs) | 2026\-11\-25T09:42:08Z | Apache\-2.0 |
-| [The\-Obstacle\-Is\-The\-Way/erdos\-banger](https://github.com/The-Obstacle-Is-The-Way/erdos-banger) | 2026\-11\-25T09:26:55Z | Apache\-2.0 |
-| [philzook58/knuckledragger](https://github.com/philzook58/knuckledragger) | 2026\-11\-25T09:09:59Z | MIT |
-| [tamnd/langlands\-lean](https://github.com/tamnd/langlands-lean) | 2026\-11\-25T09:05:58Z | Apache\-2.0 |
-| [lean\-online/lean\-init\-ide](https://github.com/lean-online/lean-init-ide) | 2026\-11\-25T08:59:44Z | Apache\-2.0 |
-| [Allianaab2m/leanfran\-emela](https://github.com/Allianaab2m/leanfran-emela) | 2026\-11\-25T08:02:05Z | Apache\-2.0 |
 
 ## Mathematics community questions
 
@@ -166,46 +166,46 @@ Answer flags describe discussion on MathOverflow or Mathematics Stack Exchange. 
 
 | Question | Author | Score | Answered / accepted | Content license |
 | --- | --- | ---: | --- | --- |
-| [Characterizing "bounded" distributivity in terms of dense open sets](https://mathoverflow.net/questions/314835) | [Asaf Karagila](https://mathoverflow.net/users/7206) | 8 | True / none | CC BY\-SA 4.0 |
-| [Iterative set\-builder formulation for integer partitions](https://mathoverflow.net/questions/518211) | [Samson Aminu](https://mathoverflow.net/users/594395) | 0 | False / none | CC BY\-SA 4.0 |
-| [Total Change vs Average Total Change](https://math.stackexchange.com/questions/3472123) | [Sight](https://math.stackexchange.com/users/733920) | 1 | False / none | CC BY\-SA 4.0 |
-| [Should $\\mathbb\{C\}/\\mathbb\{R\}$ be considered a tamely or wildly ramified extension of local fields?](https://mathoverflow.net/questions/511174) | [Snacc](https://mathoverflow.net/users/519543) | 16 | True / 511253 | CC BY\-SA 4.0 |
-| [Algebra with \($\\infty$\-\)topoï](https://mathoverflow.net/questions/518210) | [Adrien Zabat](https://mathoverflow.net/users/153344) | 0 | False / none | CC BY\-SA 4.0 |
-| [Question about $\\int\_\{0\}^\{1\}\\ln\\left\(\\ln\\left\(\\ln\\left\(x\+1\\right\)\\right\)^\{2\}\+\\left\(x\+1\\right\)^\{2\}\\right\)dx$ and other triple log integrals](https://math.stackexchange.com/questions/5156186) | [rain](https://math.stackexchange.com/users/1653265) | 0 | False / none | CC BY\-SA 4.0 |
-| [Can four right triangles with integer sides and the same perimeter have consecutive hypotenuses?](https://math.stackexchange.com/questions/5155890) | [eyup gonder](https://math.stackexchange.com/users/1789491) | 17 | False / none | CC BY\-SA 4.0 |
-| [What is the Banach\-Mazur distance between $\\ell\_\\infty$ and $L\_\\infty$?](https://mathoverflow.net/questions/241743) | [Hannes Thiel](https://mathoverflow.net/users/24916) | 38 | True / none | CC BY\-SA 4.0 |
-| [Is every permutation the product of two involutions?](https://math.stackexchange.com/questions/497637) | [Avijit](https://math.stackexchange.com/users/60890) | 10 | True / 497674 | CC BY\-SA 4.0 |
-| [Constructing a topos from a Heyting algebra](https://mathoverflow.net/questions/258831) | [user102845](https://mathoverflow.net/users/102845) | 16 | True / none | CC BY\-SA 3.0 |
-| [Probability distribution of the median](https://mathoverflow.net/questions/9615) | [Nick](https://mathoverflow.net/users/2771) | 5 | True / none | CC BY\-SA 2.5 |
-| [How to Prove the Functional Graph of the Collatz Map is Connected, and Other Related Questions](https://math.stackexchange.com/questions/5156176) | [Matsepe Tsiu](https://math.stackexchange.com/users/1789906) | -1 | True / none | CC BY\-SA 4.0 |
-| [Find the probability generating function $G\(s\)$ of this branching process.](https://math.stackexchange.com/questions/1304850) | [Bob the Builds](https://math.stackexchange.com/users/98364) | 3 | False / none | CC BY\-SA 3.0 |
-| [To what extent should the prospective mathematician engage with mathematics at this point?](https://mathoverflow.net/questions/518147) | [user604090](https://mathoverflow.net/users/604090) | 35 | True / 518149 | CC BY\-SA 4.0 |
-| [Is my approach to evaluating this logarithmic limit correct?](https://math.stackexchange.com/questions/5156181) | [Boudiaf Mohammed Taha](https://math.stackexchange.com/users/1789902) | 2 | False / none | CC BY\-SA 4.0 |
-| [Understanding $L^p$ spaces from a probability background](https://math.stackexchange.com/questions/5156182) | [Allan](https://math.stackexchange.com/users/1768756) | 0 | False / none | CC BY\-SA 4.0 |
-| [$\\sin n$ having a closed form expression with no complex terms?](https://math.stackexchange.com/questions/634704) | [Sawarnik](https://math.stackexchange.com/users/93616) | 7 | True / none | CC BY\-SA 3.0 |
-| [Prove $\\frac\{29\}\{25\} &lt; \\int\_0^1 \\frac\{\\cos x\}\{\\sqrt\[4\]\{x\}\}&lt;\\frac\{4\}\{3\}$](https://math.stackexchange.com/questions/5156165) | [Ekaveera Gouribhatla](https://math.stackexchange.com/users/31458) | 1 | True / none | CC BY\-SA 4.0 |
-| [Unoriented simplicial sets](https://mathoverflow.net/questions/518201) | [Andy Sukowski\-Bang](https://mathoverflow.net/users/584752) | 1 | True / none | CC BY\-SA 4.0 |
-| [Is x = 3n²/\(2π\) a known relation, or just the circle's area rescaled?](https://math.stackexchange.com/questions/5156178) | [Alex Kaufman](https://math.stackexchange.com/users/1789919) | -4 | False / none | CC BY\-SA 4.0 |
-| [How do I work out the percentage increase when an amount rises from 370 to 400?](https://math.stackexchange.com/questions/5156054) | [Alan Morton](https://math.stackexchange.com/users/1789584) | 0 | True / none | CC BY\-SA 4.0 |
-| [How to compute $\\lim\_\{x\\to \\infty\} x\(a^\{\\frac\{1\}\{x\}\}\-1\)$?](https://math.stackexchange.com/questions/4882357) | [Red Banana](https://math.stackexchange.com/users/25805) | 1 | True / 4882387 | CC BY\-SA 4.0 |
-| [Homeomorphisms between sphere arrangements arising from oriented matroids](https://mathoverflow.net/questions/498765) | [Enzo Robert](https://mathoverflow.net/users/570104) | 1 | True / none | CC BY\-SA 4.0 |
-| [A boundedness question for unique Hamiltonian cycles](https://math.stackexchange.com/questions/5154584) | [Lucien Jaccon](https://math.stackexchange.com/users/1276067) | 8 | True / none | CC BY\-SA 4.0 |
-| [Show that a periodic, finitely generated, nilpotent group has finite order.](https://math.stackexchange.com/questions/468509) | [yannickvda](https://math.stackexchange.com/users/55081) | 0 | True / none | CC BY\-SA 3.0 |
-| [What is the main new idea in “Euclidean geometry in the asymptotic spectrum of tensors”?](https://mathoverflow.net/questions/518206) | [Philip Weiss](https://mathoverflow.net/users/477593) | 8 | False / none | CC BY\-SA 4.0 |
-| [Can the fluctuations of an ergodic average be one\-sided and large?](https://mathoverflow.net/questions/495109) | [Joshua Meisel](https://mathoverflow.net/users/564449) | 13 | False / none | CC BY\-SA 4.0 |
+| [How to prove this trigonometric formula giving an angle of $81.00868\\dots^\\circ$ in a square?](https://math.stackexchange.com/questions/5156108) | [Jamil Sanjakdar](https://math.stackexchange.com/users/1662645) | 5 | True / none | CC BY\-SA 4.0 |
+| [Are these Ramanujan\-like formulas for $1/\\pi^2$ new?](https://mathoverflow.net/questions/514194) | [Timothy Chow](https://mathoverflow.net/users/3106) | 11 | False / none | CC BY\-SA 4.0 |
+| [Steps to solve this system of equations: $\\sqrt\{x\}\+y=7$, $\\sqrt\{y\}\+x=11$](https://math.stackexchange.com/questions/108962) | user23205 | 7 | True / 108976 | CC BY\-SA 3.0 |
+| [Prove $\\frac\{x\(4x\-y\-z\)\}\{4x^2\+\(y\+z\)^2\}\+\\frac\{y\(4y\-z\-x\)\}\{4y^2\+\(z\+x\)^2\}\+\\frac\{z\(4z\-x\-y\)\}\{4z^2\+\(x\+y\)^2\}\\ge \\frac\{3\}\{4\}$](https://math.stackexchange.com/questions/5156200) | [Anonymous](https://math.stackexchange.com/users/1597897) | 1 | False / none | CC BY\-SA 4.0 |
+| [Consequences of the Riemann hypothesis](https://mathoverflow.net/questions/17209) | [Andrea Ferretti](https://mathoverflow.net/users/828) | 187 | True / 17232 | CC BY\-SA 3.0 |
+| [On cutting a cube into mutually congruent solids \- other than by parallel planes](https://mathoverflow.net/questions/518167) | [Nandakumar R](https://mathoverflow.net/users/142600) | 0 | False / none | CC BY\-SA 4.0 |
+| [How to deduce that the same matrix $P$ diagonalizes both $A$ and $B$?](https://math.stackexchange.com/questions/5156140) | [Martin](https://math.stackexchange.com/users/1638354) | 1 | False / none | CC BY\-SA 4.0 |
+| [Existence of an $\\alpha$\-regular measure with positive measure on a binary digits do not have a limiting frequency](https://mathoverflow.net/questions/453132) | [Simple Conjugate](https://mathoverflow.net/users/510806) | 3 | False / none | CC BY\-SA 4.0 |
+| [Total Change vs Average Total Change](https://math.stackexchange.com/questions/3472123) | [Sight](https://math.stackexchange.com/users/733920) | 2 | True / none | CC BY\-SA 4.0 |
+| [Divide the vertex set of a graph into $k$ partitions, can the longest path of connected parts in induced subgraphs be bounded?](https://math.stackexchange.com/questions/4170080) | [iRoy33](https://math.stackexchange.com/users/939981) | 2 | False / none | CC BY\-SA 4.0 |
+| [Light condensed objects in D\(Ab\)](https://mathoverflow.net/questions/506847) | [Yutaro Mikami](https://mathoverflow.net/users/496060) | 7 | True / 511987 | CC BY\-SA 4.0 |
+| [Compact notational/numeral\-system\-like representations for polynomials, series, simple programs and iterating terms?](https://math.stackexchange.com/questions/5156199) | [rutabulum](https://math.stackexchange.com/users/1568295) | 0 | False / none | CC BY\-SA 4.0 |
+| [How far can we go with $n$ in the integral $\\int\_0^\{\\frac\{\\pi\}\{2\}\} \\frac\{x^n\}\{1\+\\sin x\+\\cos x\} d x?$](https://math.stackexchange.com/questions/5156131) | [Lai](https://math.stackexchange.com/users/732917) | 5 | True / none | CC BY\-SA 4.0 |
+| [Is a set\-like well\-founded relation isomorphic to a subclass of well\-founded sets?](https://math.stackexchange.com/questions/5156197) | [Jakobian](https://math.stackexchange.com/users/476484) | 1 | False / none | CC BY\-SA 4.0 |
+| [Factoring $a^\{10\}\+a^5\+1$](https://math.stackexchange.com/questions/24529) | [tom](https://math.stackexchange.com/users/3128) | 5 | True / none | CC BY\-SA 4.0 |
+| [Is every $f\(k\)$\-vertex\-connected graph the edge\-disjoint union of two $k$\-vertex\-connected graphs?](https://math.stackexchange.com/questions/3099687) | [David Hackenger](https://math.stackexchange.com/users/200680) | 3 | True / none | CC BY\-SA 4.0 |
+| [A function that is open but neither closed not continuous \(in 2D\).](https://math.stackexchange.com/questions/1863560) | [Michael Maliszesky](https://math.stackexchange.com/users/262457) | 6 | True / none | CC BY\-SA 4.0 |
+| [directional motion on polar graphs](https://math.stackexchange.com/questions/5156129) | [Nate](https://math.stackexchange.com/users/1146459) | 0 | False / none | CC BY\-SA 4.0 |
+| [Closed form evaluation of the integral $\\int\_0^\\infty \\frac\{x \\cosh\(\\beta x\)\}\{\\sinh\(\\alpha x\)\\pm x \\sin\(\\alpha\)\}\\,dx$](https://math.stackexchange.com/questions/5140318) | [Stephan](https://math.stackexchange.com/users/1656364) | 14 | True / none | CC BY\-SA 4.0 |
+| [Proof: in any set of n rational numbers there is a no mean in between permutation](https://math.stackexchange.com/questions/3884647) | [Dojou](https://math.stackexchange.com/users/837846) | 0 | True / none | CC BY\-SA 4.0 |
+| [Metrics on torus without closed contractible geodesics](https://mathoverflow.net/questions/358943) | [Anton Petrunin](https://mathoverflow.net/users/1441) | 8 | True / 516971 | CC BY\-SA 4.0 |
 | [Rising Sea exercise 4.3.A](https://math.stackexchange.com/questions/5156168) | [H. de Gracht](https://math.stackexchange.com/users/1050313) | 1 | False / none | CC BY\-SA 4.0 |
-| [In how many ways can we distribute 6 white and 6 black ball in 10 different boxes such each box has atleast 1 ball?](https://math.stackexchange.com/questions/4887808) | [Guess](https://math.stackexchange.com/users/1202467) | 0 | True / none | CC BY\-SA 4.0 |
-| [Can an SDE be turned into PDE for the density?](https://math.stackexchange.com/questions/4393804) | [Takirion](https://math.stackexchange.com/users/299952) | 2 | False / none | CC BY\-SA 4.0 |
-| [Scalar and cross product: perpendicularity and parallelism](https://math.stackexchange.com/questions/3859645) | [Sebastiano](https://math.stackexchange.com/users/705338) | 2 | False / none | CC BY\-SA 4.0 |
-| [Use of Lagrange Basis in Shamir’s Secret Sharing](https://math.stackexchange.com/questions/5156111) | [sea](https://math.stackexchange.com/users/1779156) | 1 | True / 5156119 | CC BY\-SA 4.0 |
-| [Counting number of connected graphs of size $n$](https://math.stackexchange.com/questions/5156157) | [K. V. K. Nihar](https://math.stackexchange.com/users/1782585) | -2 | False / none | CC BY\-SA 4.0 |
+| [Is $x = 3n^2/2\\pi$ a known relation, or just the circle’s area rescaled?](https://math.stackexchange.com/questions/5156178) | [Alex Kaufman](https://math.stackexchange.com/users/1789919) | -6 | False / none | CC BY\-SA 4.0 |
+| [Polar to phasor](https://math.stackexchange.com/questions/707775) | [Steve](https://math.stackexchange.com/users/127906) | 0 | True / none | CC BY\-SA 4.0 |
+| [Is there a parametrization for this equation: $a^2\+b^4\+c^8\+d^\{16\}=e^\{32\}$?](https://math.stackexchange.com/questions/5154498) | [Hsi\-yung](https://math.stackexchange.com/users/1784910) | 6 | True / none | CC BY\-SA 4.0 |
+| [Is my approach to evaluating $\\lim\_\{x\\to 0^\+\}\\frac\{\\sqrt\{x\}\}\{1\-\\ln\(e\-x\)\} $ correct?](https://math.stackexchange.com/questions/5156181) | [Boudiaf Mohammed Taha](https://math.stackexchange.com/users/1789902) | 4 | True / none | CC BY\-SA 4.0 |
+| [Is there any alternative to compute the integral $\\int\_0^1 \\frac\{\\ln x \\ln \(\-\\ln x\)\}\{1\-x\}dx $?](https://math.stackexchange.com/questions/5155984) | [Lai](https://math.stackexchange.com/users/732917) | 2 | False / none | CC BY\-SA 4.0 |
+| [prove that $PM$ is perpendicular to $AB$ on a cyclic quadrilateral](https://math.stackexchange.com/questions/2827461) | [space](https://math.stackexchange.com/users/298039) | 2 | True / 2828237 | CC BY\-SA 4.0 |
+| [What are the practical implications of the matrix multiplication exponent being 9/4?](https://mathoverflow.net/questions/518214) | [David White](https://mathoverflow.net/users/11540) | 8 | False / none | CC BY\-SA 4.0 |
+| [Question about $\\int\_\{0\}^\{1\}\\ln\\left\(\\ln\\left\(\\ln\\left\(x\+1\\right\)\\right\)^\{2\}\+\\left\(x\+1\\right\)^\{2\}\\right\)dx$ and other triple log integrals](https://math.stackexchange.com/questions/5156186) | [rain](https://math.stackexchange.com/users/1653265) | 2 | True / none | CC BY\-SA 4.0 |
+| [How big are $f\_3\(3\)$ and $f\_4\(4\)$ in the fast growing hierarchy?](https://math.stackexchange.com/questions/3749203) | [CS1](https://math.stackexchange.com/users/79167) | -1 | True / 3754603 | CC BY\-SA 4.0 |
+| [Integration of differential forms \- how to extend \(and fix?\) this intuition?](https://math.stackexchange.com/questions/2225881) | [Deusovi](https://math.stackexchange.com/users/256930) | 4 | False / none | CC BY\-SA 4.0 |
 | [Prove $\(a\+b\+c\)\(\\frac\{1\}\{a\}\+\\frac\{1\}\{b\}\+\\frac\{1\}\{c\}\)\\ge 3\\sum\\limits\_\{\\mathrm\{cyc\}\}\\frac\{a\+b\}\{b\+c\}$ for positives](https://math.stackexchange.com/questions/5156135) | [Anonymous](https://math.stackexchange.com/users/1597897) | 2 | True / none | CC BY\-SA 4.0 |
-| [How to prove this trigonometric formula giving an angle of $81^\\circ$ in a square?](https://math.stackexchange.com/questions/5156108) | [Jamil Sanjakdar](https://math.stackexchange.com/users/1662645) | 5 | True / none | CC BY\-SA 4.0 |
-| [Other ways to construct this sort of rotation between 3D vectors $\\vec f$ to $\\vec t$? Maybe another matrix?](https://math.stackexchange.com/questions/5150939) | [John](https://math.stackexchange.com/users/1672518) | 3 | True / none | CC BY\-SA 4.0 |
-| [Pimsner\-Popa Bases](https://mathoverflow.net/questions/532) | [Dave Penneys](https://mathoverflow.net/users/351) | 11 | False / none | CC BY\-SA 2.5 |
-| [Does ZFC \+ Con\(ZFC\) \+ ... prove that ZFC \+ a tower of n Grothendieck universes is consistent?](https://math.stackexchange.com/questions/5156163) | [Weier](https://math.stackexchange.com/users/23001) | 2 | True / none | CC BY\-SA 4.0 |
-| [Where to begin understanding the proof of the Riemann Hypothesis](https://mathoverflow.net/questions/518068) | [Stopple](https://mathoverflow.net/users/6756) | 51 | True / none | CC BY\-SA 4.0 |
-| [Has this $n$\-tuple implementation been defined and used before?](https://mathoverflow.net/questions/518204) | [Zuhair Al\-Johar](https://mathoverflow.net/users/95347) | 1 | False / none | CC BY\-SA 4.0 |
+| [How one would come up with the substitution $x = \\sec\(\\theta\)$ in order to find the sum of all real roots of $x\+\\frac\{x\}\{\\sqrt\{x^2\-1\}\}=2022$?](https://math.stackexchange.com/questions/5141568) | [CEOofCompany](https://math.stackexchange.com/users/1698450) | 12 | True / 5141584 | CC BY\-SA 4.0 |
+| [Maximum of $I\(X;Y\\mid K\)$ over pairs of partitions, when $K$ is the Gács–Körner common part](https://math.stackexchange.com/questions/5155950) | [Nahum Ochoa](https://math.stackexchange.com/users/1789567) | 2 | True / 5156041 | CC BY\-SA 4.0 |
+| [Interesting anti\-classical purely logical \(e.g., higher\-order propositional\) axioms](https://mathoverflow.net/questions/514882) | [Gro\-Tsen](https://mathoverflow.net/users/17064) | 16 | True / none | CC BY\-SA 4.0 |
+| [Can Hilbert's Hotel Handle Online Arrivals of Any Countable Well\-Ordered Sequence?](https://math.stackexchange.com/questions/5156124) | [Eric](https://math.stackexchange.com/users/909833) | 6 | True / 5156145 | CC BY\-SA 4.0 |
+| [arbitry value for $\\epsilon$](https://math.stackexchange.com/questions/5153097) | [Fernando Meira](https://math.stackexchange.com/users/1784526) | -2 | True / none | CC BY\-SA 4.0 |
+| [What are the implications of a proof that $VP \\neq VNP$?](https://mathoverflow.net/questions/518197) | [David White](https://mathoverflow.net/users/11540) | 20 | True / none | CC BY\-SA 4.0 |
+| [Characterizing "bounded" distributivity in terms of dense open sets](https://mathoverflow.net/questions/314835) | [Asaf Karagila](https://mathoverflow.net/users/7206) | 8 | True / none | CC BY\-SA 4.0 |
 
 ## Primary research blog feeds
 
